@@ -9,4 +9,4 @@ designer-Particles.
 
 ## Contact
 
-Project Link: [https://github.com/Padman83/designer-Particles] (https://github.com/Padman83/designer-Particles)
+Project Link: [https://github.com/Padman83/designer-Particles]
